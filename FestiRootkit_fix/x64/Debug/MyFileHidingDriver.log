@@ -1,0 +1,7 @@
+﻿  Building 'FestiRootkit_fix' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  DriverMain.cpp
+  FastIo.cpp
+  正在生成代码...
+  MyFileHidingDriver.vcxproj -> C:\Users\ga0weI03\Desktop\forupgithub\MyFileHidingDriver\x64\Debug\FestiRootkit_fix.sys
+  Inf2Cat task was skipped as there were no inf files to process
+  
